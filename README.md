@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Projet Kasa : Site de Réservation de Logement entre Particulier
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bienvenue dans le projet fictif de modernisation d'une application web de location d'appartements en utilisant React. 
+Ce projet a été réalisé dans le cadre de ma formation de Développeuse Web chez OpenClassrooms afin de valider les compétences liées au framework React.
 
-## Available Scripts
+## Aperçu
 
-In the project directory, you can run:
+L'objectif de ce projet fictif était d'aider une entreprise spécialisée dans la location d'appartements à moderniser leur application web existante. Les étapes principales du projet comprenaient :
 
-### `npm start`
+- Démarrer le projet React et configurer l'environnement de développement.
+- Développer l'ensemble de l'application, y compris les composants, les pages, et la gestion du routage.
+- Suivre les maquettes Figma pour assurer une conception responsive et cohérente sur desktop, mobile et tablette.
+- Utiliser React pour créer des composants réutilisables, tels que des collapses, des slideshows, des galeries, etc.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Fonctionnalités Clés
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+L'application modernisée comprend les fonctionnalités suivantes :
 
-### `npm test`
+- **Page d'Accueil :** Affiche les logements disponibles avec un menu de navigation comprenant les options "Accueil" et "À Propos".
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Page de Logement :** Chaque logement a sa propre page dédiée pour afficher des informations détaillées, des photos (slideshow), etc.
 
-### `npm run build`
+- **Page "À Propos" :** Une page d'informations sur l'entreprise et ses services (collapses).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation et Exécution
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Si vous souhaitez explorer ce projet et voir comment il a été développé, suivez ces étapes :
+1. Clonez ce repository sur votre ordinateur en utilisant la commande suivante :
+git clone https://github.com/GiraltDeReve/Application-React-Kasa.git
+2. Installez les dépendances en utilisant npm et la commande : "npm install"
+3. Exécutez l'application depuis le fichier Backend avec la commande : "npm start"
+4. Ouvrez votre navigateur, l'application devrait être accessible à l'adresse `http://localhost:3000`si elle ne s'est pas dékà lancée automatiquement
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Captures d'Écran
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Page d'accueil
+![image](https://github.com/GiraltDeReve/Application-React-Kasa/assets/113437966/57acd641-b971-44ff-97d3-9d82b64b3bc2)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Page de Logement
+![image](https://github.com/GiraltDeReve/Application-React-Kasa/assets/113437966/59c1b437-38ac-4cdf-9f0b-d2e84bf72426)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Page "À Propos"
+![image](https://github.com/GiraltDeReve/Application-React-Kasa/assets/113437966/cfbf588c-f043-439d-bb86-5aa2e1cd7ebe)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+N'hésitez pas à contribuer, signaler des problèmes ou suggérer des améliorations en ouvrant une issue.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Merci d'avoir visité le projet KASA !
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Ce projet a été réalisé par Céline Rouaire dans le cadre de la formation de Développeur Web sur OpenClassrooms.
