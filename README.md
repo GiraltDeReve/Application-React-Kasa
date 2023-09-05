@@ -30,7 +30,7 @@ Si vous souhaitez explorer ce projet et voir comment il a été développé, sui
 git clone https://github.com/GiraltDeReve/Application-React-Kasa.git
 2. Installez les dépendances en utilisant npm et la commande : "npm install"
 3. Exécutez l'application depuis le fichier Backend avec la commande : "npm start"
-4. Ouvrez votre navigateur, l'application devrait être accessible à l'adresse `http://localhost:3000`si elle ne s'est pas dékà lancée automatiquement
+4. Ouvrez votre navigateur, l'application devrait être accessible à l'adresse `http://localhost:3000`si elle ne s'est pas déjà lancée automatiquement
 
 
 ## Captures d'Écran
